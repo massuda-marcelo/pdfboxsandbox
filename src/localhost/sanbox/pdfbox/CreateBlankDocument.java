@@ -1,4 +1,4 @@
-package br.com.m67.sanbox.pdfbox;
+package localhost.sanbox.pdfbox;
 
 import java.io.IOException;
 
