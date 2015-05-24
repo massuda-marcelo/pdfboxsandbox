@@ -10,6 +10,8 @@ public class CreateBlankDocument {
 
 	public static void main(String[] args) throws IOException, COSVisitorException {
 
+		// from https://pdfbox.apache.org/1.8/cookbook/documentcreation.html
+
 		System.out.println("start...");
 
 		// Create a new empty document
