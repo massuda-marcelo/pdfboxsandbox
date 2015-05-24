@@ -1,4 +1,4 @@
-package localhost.sanbox.pdfbox;
+package localhost.sandbox.pdfbox;
 
 import java.io.IOException;
 
